@@ -3,7 +3,7 @@
     <!-- Dashboard Header -->
     <div class="flex items-center justify-between">
         {{-- <h1 class="text-3xl font-bold text-gray-800">Admin Dashboard</h1> --}}
-        <span class="text-gray-600 text-lg">Welcome back, {{ auth()->user()->name ?? 'Admin' }}</span>
+        <span class="text-gray-600 text-lg">Welcome, {{ auth()->user()->name ?? 'Admin' }}</span>
     </div>
 
     <!-- Statistic Cards -->
