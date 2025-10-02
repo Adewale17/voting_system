@@ -36,7 +36,7 @@
         <svg class="h-5 w-5 mr-3 text-green-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-3-3h-2m-4 5h-4m0-4a4 4 0 110-8 4 4 0 010 8zM5 20h14"/>
         </svg>
-        Users
+        Students
     </a>
 
 
